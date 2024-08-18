@@ -26,7 +26,6 @@ This project is a web application that includes some features inspired by Spotif
 
 - **Responsive Design:** Responsive layout with Tailwind CSS for a modern look and feel.
 - **Music Player:** Basic controls to play, pause, and skip tracks.
-- **Playlists:** Create and manage your playlists.
 - **Database Integration:** Store playlists, and track information in MongoDB.
 
 ## Installation
